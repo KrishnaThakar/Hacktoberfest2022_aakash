@@ -10,6 +10,13 @@ Github Username: <USERNAME><br>
 
 ### PARTICIPANTS 
 
+
+-----
+Name: Krishna Thakar<br>
+Institution/Company: Southeast Missouri State University<br>
+Github Username: KrishnaThakar<br>
+-----
+
 ---
 Name: AAKASH KUMAR SAHOO<br>
 Institution/Company: GALGOTIAS UNIVERSITY<br>
